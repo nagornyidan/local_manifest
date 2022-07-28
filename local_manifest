@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+      <remote name="AbrarNoob"
+          fetch="https://github.com/AbrarNoob" />
+
+  <project path="device/xiaomi/alioth" name="device_xiaomi_alioth" remote="qsharp501" revision="12L" />
+  <project path="vendor/xiaomi/alioth" name="vendor_xiaomi_aliot" remote="qsharp501" revision="12L" />
+  <project path="kernel/xiaomi/alioth" name="InfiniR_kernel_alioth" remote="qsharp501" revision="12.1-alioth" />
+  
+  
+</manifest>

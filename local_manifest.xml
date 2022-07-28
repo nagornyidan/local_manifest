@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-      <remote name="AbrarNoob"
-          fetch="https://github.com/AbrarNoob" />
+      <remote name="qsharp501"
+          fetch="https://github.com/qsharp501" />
 
   <project path="device/xiaomi/alioth" name="device_xiaomi_alioth" remote="qsharp501" revision="12L" />
   <project path="vendor/xiaomi/alioth" name="vendor_xiaomi_aliot" remote="qsharp501" revision="12L" />
